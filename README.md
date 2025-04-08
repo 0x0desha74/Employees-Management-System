@@ -1,4 +1,4 @@
-# CRUD System MVC
+# Employees Management System 
 
 ## Overview 🏢
 CRUD System MVC is a web application built with .NET 6 that provides CRUD (Create, Read, Update, Delete) operations for managing employees and departments.
